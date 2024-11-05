@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Zoroz.git
+git clone (https://github.com/Priyanshu-jais/Zoroz/)
 cd Zoroz
 Install dependencies:
 
