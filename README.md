@@ -1,7 +1,8 @@
 Zoroz E-commerce Website
 Zoroz is a dynamic, fully responsive e-commerce web application built with React + Vite on the frontend, Firebase for backend services, Firestore for database management, and Razorpay for payment processing. The application supports both User and Admin accounts, each with distinct functionalities.
 
-Features
+Features: 
+
 User Account
 Product Viewing: Browse and view detailed information about each product.
 Product Filtering: Filter products based on price range and type.
